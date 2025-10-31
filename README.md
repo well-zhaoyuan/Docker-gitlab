@@ -2,7 +2,7 @@
 
 Docker desktop部署gitlab
 
-\# Steps
+## Steps
 
 &nbsp;   1:
 
